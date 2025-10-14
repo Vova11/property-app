@@ -1,0 +1,66 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+*.log
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.venv.bak/
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# --- Data files ---
+*.csv
+*.json
+*.xlsx
+*.parquet
+*.pickle
+*.zip
+
+# --- OS / IDE noise ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Jupyter / Colab ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- Caches / builds ---
+dist/
+build/
+.eggs/
+*.egg-info/
+__pycache__/
+.cache/
+*.spec
+
+# --- Docker ---
+*.pid
+*.tar
+docker-compose.override.yml
+
+# --- Logs ---
+logs/
+*.log
+nohup.out
+
+# --- Misc ---
+*.bak
+*.tmp
+*.old
+*.orig
