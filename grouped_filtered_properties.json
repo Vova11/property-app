@@ -1044,6 +1044,18 @@
     "price_changed": false
   },
   {
+    "county": "Bratislava III",
+    "category": "2 izbový byt",
+    "title": "NA PREDAJ 2 IZBOVÝ MEZONET S PARKOVANÍM BRATISLAVA NOVÉ MESTO",
+    "link": "https://www.topreality.sk/na-predaj-2-izbovy-mezonet-s-parkovanim-bratislava-nove-mesto-r9144032.html",
+    "size_m2": 69.0,
+    "avg_price": "low",
+    "latest_price": 119900,
+    "latitude": 48.1865022,
+    "longitude": 17.1659499,
+    "price_changed": false
+  },
+  {
     "county": "Bratislava I",
     "category": "2 izbový byt",
     "title": "Výnimočná nehnuteľnosť na výbornej adrese! Dobšinského, BA Staré Mesto",
@@ -1245,6 +1257,30 @@
     "latest_price": 117235,
     "latitude": {},
     "longitude": {},
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava I",
+    "category": "2 izbový byt",
+    "title": "Slnečný dvojizbový byt s garážou v Starom Meste",
+    "link": "https://www.topreality.sk/slnecny-dvojizbovy-byt-s-garazou-v-starom-meste-r9144424.html",
+    "size_m2": 51.0,
+    "avg_price": "low",
+    "latest_price": 208800,
+    "latitude": 48.1399656,
+    "longitude": 17.1012375,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava I",
+    "category": "2 izbový byt",
+    "title": "BATUMI, GRUZÍNSKO ! INFINITY POOL NA STRECHE, 2i apartmán s balkónom, Batumi, Novostavba, Super Cena",
+    "link": "https://www.topreality.sk/batumi-gruzinsko-infinity-pool-na-streche-2i-apartman-s-balkonom-batumi-novostavba-super-cena-r8999846.html",
+    "size_m2": 50.0,
+    "avg_price": "low",
+    "latest_price": 59990,
+    "latitude": 48.1433851,
+    "longitude": 17.111957,
     "price_changed": false
   },
   {
@@ -1481,7 +1517,7 @@
     "title": "2-IZBOVÉ BYTY V ŠTANDARDE V PROJEKTE NOVÁ ZÁHORSKÁ",
     "link": "https://www.topreality.sk/2-izbove-byty-v-standarde-v-projekte-nova-zahorska-r8713381.html",
     "size_m2": 52.0,
-    "avg_price": "high",
+    "avg_price": "low",
     "latest_price": 208200,
     "latitude": {},
     "longitude": {},
@@ -2898,10 +2934,20 @@
     "link": "https://www.topreality.sk/predame-novostavbu-2-izboveho-bytu-s-parkovacim-miestom-na-majerskej-ulici-vo-vrakuni-r9011171.html",
     "size_m2": 60.0,
     "avg_price": "low",
-    "latest_price": 189000,
+    "latest_price": 187000,
     "latitude": 48.145195,
     "longitude": 17.2004942,
-    "price_changed": false
+    "price_changed": true,
+    "price_history": [
+      {
+        "price": 189000,
+        "date": null
+      },
+      {
+        "price": 187000,
+        "date": "2025-10-13"
+      }
+    ]
   },
   {
     "county": "Bratislava II",
@@ -3657,6 +3703,30 @@
     "latest_price": 217800,
     "latitude": 48.1619999,
     "longitude": 17.1637762,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "REZERVOVANÉ: SLNEČNÝ 2-IZBOVÝ BYT V TICHEJ LOKALITE PRI DULOVOM NÁMESTÍ",
+    "link": "https://www.topreality.sk/rezervovane-slnecny-2-izbovy-byt-v-tichej-lokalite-pri-dulovom-namesti-r9120062.html",
+    "size_m2": 46.0,
+    "avg_price": "high",
+    "latest_price": 225000,
+    "latitude": 48.1494565,
+    "longitude": 17.1376426,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "2-izbový byt s veľkým potenciálom na Mierovej ulici – Ružinov",
+    "link": "https://www.topreality.sk/2-izbovy-byt-s-velkym-potencialom-na-mierovej-ulici-ruzinov-r9144234.html",
+    "size_m2": 54.0,
+    "avg_price": "low",
+    "latest_price": 188000,
+    "latitude": 48.1498484,
+    "longitude": 17.1705499,
     "price_changed": false
   },
   {
