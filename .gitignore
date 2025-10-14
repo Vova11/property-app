@@ -22,7 +22,6 @@ ENV/
 
 # --- Data files ---
 *.csv
-*.json
 *.xlsx
 *.parquet
 *.pickle
