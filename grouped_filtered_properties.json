@@ -845,7 +845,7 @@
     "title": "REZERVOVANÉ NA PREDAJ 2 IZ.BYT BRATISLAVA NOVÉ MESTO KRAMÁRE 41 m2",
     "link": "https://www.topreality.sk/rezervovane-na-predaj-2-iz-byt-bratislava-nove-mesto-kramare-41-m2-r9095007.html",
     "size_m2": 41.0,
-    "avg_price": "low",
+    "avg_price": "high",
     "latest_price": 197900,
     "latitude": 48.1658378,
     "longitude": 17.0912114,
@@ -1053,6 +1053,66 @@
     "latest_price": 119900,
     "latitude": 48.1865022,
     "longitude": 17.1659499,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava III",
+    "category": "2 izbový byt",
+    "title": "THE HOME I PREDAJ Svetlý 2 izb. byt v bytovom dome Olive na Kramároch",
+    "link": "https://www.topreality.sk/the-home-i-predaj-svetly-2-izb-byt-v-bytovom-dome-olive-na-kramaroch-r9145453.html",
+    "size_m2": 50.0,
+    "avg_price": "low",
+    "latest_price": 209000,
+    "latitude": 48.1667753,
+    "longitude": 17.0930687,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava III",
+    "category": "2 izbový byt",
+    "title": "ZNÍŽENÁ CENA - Slnečný 2 izbový byt s predzáhradkou - Vinohrady - Nové Mesto",
+    "link": "https://www.topreality.sk/znizena-cena-slnecny-2-izbovy-byt-s-predzahradkou-vinohrady-nove-mesto-r9145273.html",
+    "size_m2": 46.0,
+    "avg_price": "high",
+    "latest_price": 229000,
+    "latitude": 48.1671622,
+    "longitude": 17.1383524,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava III",
+    "category": "2 izbový byt",
+    "title": "VYMEŇ SUSEDA - VÝNIMOČNÝ 2 IZB. BYT, VAJNORSKÁ, NOVÁ DOBA, BRATISLAVA III, NOVÉ MESTO",
+    "link": "https://www.topreality.sk/vymen-suseda-vynimocny-2-izb-byt-vajnorska-nova-doba-bratislava-iii-nove-mesto-r9145831.html",
+    "size_m2": 43.0,
+    "avg_price": "high",
+    "latest_price": 219900,
+    "latitude": 48.1760958,
+    "longitude": 17.1455371,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava III",
+    "category": "2 izbový byt",
+    "title": "Predaj priestranného 2+1 bytu v Kysckom Novom Meste",
+    "link": "https://www.topreality.sk/predaj-priestranneho-2-1-bytu-v-kysckom-novom-meste-r9146052.html",
+    "size_m2": 56.0,
+    "avg_price": "low",
+    "latest_price": 141000,
+    "latitude": {},
+    "longitude": {},
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava III",
+    "category": "2 izbový byt",
+    "title": "JAHODOVÁ – 2i BYT po ČIASTOČNEJ REKONŠTRUKCII",
+    "link": "https://www.topreality.sk/jahodova-2i-byt-po-ciastocnej-rekonstrukcii-r9145895.html",
+    "size_m2": 56.0,
+    "avg_price": "low",
+    "latest_price": 214990,
+    "latitude": 48.1658378,
+    "longitude": 17.0912114,
     "price_changed": false
   },
   {
@@ -1281,6 +1341,18 @@
     "latest_price": 59990,
     "latitude": 48.1433851,
     "longitude": 17.111957,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava I",
+    "category": "2 izbový byt",
+    "title": "HOUSE & WEBER I BALI – UBUD, INVESTIČNÁ príležitosť, 13 % ROI, JEDINÝ kids-first rezort v srdci Ubudu, TOP TOP lokalita, RASTÚCI dopyt",
+    "link": "https://www.topreality.sk/house-weber-i-bali-ubud-investicna-prilezitost-13-roi-jediny-kids-first-rezort-v-srdci-ubudu-top-top-lokalita-rastuci-dopyt-r9144703.html",
+    "size_m2": 44.0,
+    "avg_price": "low",
+    "latest_price": 129900,
+    "latitude": 48.1432985,
+    "longitude": 17.1100911,
     "price_changed": false
   },
   {
@@ -1517,7 +1589,7 @@
     "title": "2-IZBOVÉ BYTY V ŠTANDARDE V PROJEKTE NOVÁ ZÁHORSKÁ",
     "link": "https://www.topreality.sk/2-izbove-byty-v-standarde-v-projekte-nova-zahorska-r8713381.html",
     "size_m2": 52.0,
-    "avg_price": "low",
+    "avg_price": "high",
     "latest_price": 208200,
     "latitude": {},
     "longitude": {},
@@ -2328,6 +2400,66 @@
     "price_changed": false
   },
   {
+    "county": "Bratislava IV",
+    "category": "2 izbový byt",
+    "title": "VYMEŇ SUSEDA! - Výnimočný 2 IZB. BYT s balkónom, zariadená NOVOSTAVBA ,veľká pivnica a parking, Devínka pod Lesom",
+    "link": "https://www.topreality.sk/vymen-suseda-vynimocny-2-izb-byt-s-balkonom-zariadena-novostavba-velka-pivnica-a-parking-devinka-pod-lesom-r9111834.html",
+    "size_m2": 60.0,
+    "avg_price": "low",
+    "latest_price": 209000,
+    "latitude": {},
+    "longitude": {},
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava IV",
+    "category": "2 izbový byt",
+    "title": "Moderné bývanie plné svetla a pokoja – Devínska Nová Ves, Štefana Králika",
+    "link": "https://www.topreality.sk/moderne-byvanie-plne-svetla-a-pokoja-devinska-nova-ves-stefana-kralika-r9145330.html",
+    "size_m2": 43.0,
+    "avg_price": "high",
+    "latest_price": 193900,
+    "latitude": {},
+    "longitude": {},
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava IV",
+    "category": "2 izbový byt",
+    "title": "TOP!!! KRÁSNY 2,5IZB. BYT S TERASOU, PODKROVÍM A GARÁŽOU",
+    "link": "https://www.topreality.sk/top-krasny-2-5izb-byt-s-terasou-podkrovim-a-garazou-r9145179.html",
+    "size_m2": 73.0,
+    "avg_price": "low",
+    "latest_price": 229900,
+    "latitude": 48.1955324,
+    "longitude": 17.0473022,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava IV",
+    "category": "2 izbový byt",
+    "title": "2-izbový byt v Devínskej Novej Vsi s uzavretým dvorom a klimatizáciou",
+    "link": "https://www.topreality.sk/2-izbovy-byt-v-devinskej-novej-vsi-s-uzavretym-dvorom-a-klimatizaciou-r9144911.html",
+    "size_m2": null,
+    "avg_price": "unknown",
+    "latest_price": 179800,
+    "latitude": {},
+    "longitude": {},
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava IV",
+    "category": "2 izbový byt",
+    "title": "RK4-Predaj -2 izbový byt - REZERVOVANÉ",
+    "link": "https://www.topreality.sk/rk4-predaj-2-izbovy-byt-rezervovane-r9095544.html",
+    "size_m2": 52.0,
+    "avg_price": "low",
+    "latest_price": 206000,
+    "latitude": {},
+    "longitude": {},
+    "price_changed": false
+  },
+  {
     "county": "Bratislava I",
     "category": "1 izbový byt",
     "title": "1i obchodná",
@@ -2406,10 +2538,20 @@
     "link": "https://www.topreality.sk/v-povodnom-stave-1-izbovy-byt-na-mozartovej-ulici-v-bratislave-r9140016.html",
     "size_m2": 36.0,
     "avg_price": "low",
-    "latest_price": 164900,
+    "latest_price": 174900,
     "latitude": 48.1522949,
     "longitude": 17.0871902,
-    "price_changed": false
+    "price_changed": true,
+    "price_history": [
+      {
+        "price": 164900,
+        "date": null
+      },
+      {
+        "price": 174900,
+        "date": "2025-10-15"
+      }
+    ]
   },
   {
     "county": "Bratislava I",
@@ -2589,6 +2731,18 @@
     "latest_price": 191678,
     "latitude": 48.1554866,
     "longitude": 17.1123088,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava I",
+    "category": "1 izbový byt",
+    "title": "1 izbový byt so záhradkou pri Horskom parku",
+    "link": "https://www.topreality.sk/1-izbovy-byt-so-zahradkou-pri-horskom-parku-r9053538.html",
+    "size_m2": 38.0,
+    "avg_price": "high",
+    "latest_price": 220000,
+    "latitude": 48.1532872,
+    "longitude": 17.0910753,
     "price_changed": false
   },
   {
@@ -3448,10 +3602,20 @@
     "link": "https://www.topreality.sk/zariadeny-2i-byt-s-balkonom-v-novostavbe-2023-ovocne-sady-r9070612.html",
     "size_m2": 48.0,
     "avg_price": "low",
-    "latest_price": 197700,
+    "latest_price": 195000,
     "latitude": 48.1733385,
     "longitude": 17.1936003,
-    "price_changed": false
+    "price_changed": true,
+    "price_history": [
+      {
+        "price": 197700,
+        "date": null
+      },
+      {
+        "price": 195000,
+        "date": "2025-10-14"
+      }
+    ]
   },
   {
     "county": "Bratislava II",
@@ -3991,6 +4155,114 @@
     "latest_price": 188000,
     "latitude": 48.1498484,
     "longitude": 17.1705499,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "2 izb. byt s možnosťou zmeny dispozície na 3 izb. Ostredky",
+    "link": "https://www.topreality.sk/2-izb-byt-s-moznostou-zmeny-dispozicie-na-3-izb-ostredky-r9144775.html",
+    "size_m2": 61.0,
+    "avg_price": "low",
+    "latest_price": 210000,
+    "latitude": 48.1633563,
+    "longitude": 17.1665104,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "VYMEŇ SUSEDA! - 2 IZB. BYT s TERASOU, NOVOSTAVBA 67.75 m2, Rezidencia Železničná, BA II",
+    "link": "https://www.topreality.sk/vymen-suseda-2-izb-byt-s-terasou-novostavba-67-75-m2-rezidencia-zeleznicna-ba-ii-r9124680.html",
+    "size_m2": 68.0,
+    "avg_price": "low",
+    "latest_price": 224900,
+    "latitude": 48.1469804,
+    "longitude": 17.2112462,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "Apartim s.r.o. predá pekný svetlý 2 izbový byt v 16 ročnej novostavbe v uzavretom komplexe \"Hrachová\" na Hrachovej ulici v ...",
+    "link": "https://www.topreality.sk/apartim-s-r-o-preda-pekny-svetly-2-izbovy-byt-v-16-rocnej-novostavbe-v-uzavretom-komplexe-hrachova-na-hrachovej-ulici-v-ruzinove-s-garazovym-statim-r9124723.html",
+    "size_m2": 53.0,
+    "avg_price": "low",
+    "latest_price": 204900,
+    "latitude": 48.1451818,
+    "longitude": 17.1825533,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "Real - H, ponúka na predaj investičný 2 izbový byt v TOP lokalite",
+    "link": "https://www.topreality.sk/real-h-ponuka-na-predaj-investicny-2-izbovy-byt-v-top-lokalite-r9145096.html",
+    "size_m2": 58.0,
+    "avg_price": "low",
+    "latest_price": 214900,
+    "latitude": 48.1430687,
+    "longitude": 17.1609526,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "Predaj 2-izbový byt v pôvodnom stave, Ružinov",
+    "link": "https://www.topreality.sk/predaj-2-izbovy-byt-v-povodnom-stave-ruzinov-r9145187.html",
+    "size_m2": 64.0,
+    "avg_price": "low",
+    "latest_price": 216000,
+    "latitude": 48.1561538,
+    "longitude": 17.1709304,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "Na predaj zariadený 2 izbovy byt s parkovacím sátim v meste Bratislava II-Ružinov Vietnamska ulica",
+    "link": "https://www.topreality.sk/na-predaj-zariadeny-2-izbovy-byt-s-parkovacim-satim-v-meste-bratislava-ii-ruzinov-vietnamska-ulica-r9144896.html",
+    "size_m2": 45.0,
+    "avg_price": "low",
+    "latest_price": 205000,
+    "latitude": 48.1691297,
+    "longitude": 17.1692929,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "360° prehliadka! 2 izbový byt, balkón, Ružinov, Hrachová ulica, garážové státie, pivnica",
+    "link": "https://www.topreality.sk/3600-prehliadka-2-izbovy-byt-balkon-ruzinov-hrachova-ulica-garazove-statie-pivnica-r9089041.html",
+    "size_m2": 81.0,
+    "avg_price": "low",
+    "latest_price": 225000,
+    "latitude": 48.1451818,
+    "longitude": 17.1825533,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "Na predaj 2-izbový byt po čiastočnej rekonštrukcii – Bratislava, Vrakuňa (55 m² + pivnica)",
+    "link": "https://www.topreality.sk/na-predaj-2-izbovy-byt-po-ciastocnej-rekonstrukcii-bratislava-vrakuna-55-m2-pivnica-r9144662.html",
+    "size_m2": 55.0,
+    "avg_price": "low",
+    "latest_price": 180000,
+    "latitude": 48.145195,
+    "longitude": 17.2004942,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "2 izbový byt",
+    "title": "HLADÁME 2- IZBOVY BYT PRE KONKRÉTNU KLIENTKU Bratislava",
+    "link": "https://www.topreality.sk/hladame-2-izbovy-byt-pre-konkretnu-klientku-bratislava-r9145906.html",
+    "size_m2": 50.0,
+    "avg_price": "low",
+    "latest_price": 155000,
+    "latitude": 48.1571489,
+    "longitude": 17.1591011,
     "price_changed": false
   },
   {
@@ -4717,6 +4989,30 @@
     "latest_price": 185000,
     "latitude": 48.1296726,
     "longitude": 17.1230347,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava V",
+    "category": "2 izbový byt",
+    "title": "Krásny novozrekonštruovaný 2 izbový byt v skvelej lokalite",
+    "link": "https://www.topreality.sk/krasny-novozrekonstruovany-2-izbovy-byt-v-skvelej-lokalite-r9117632.html",
+    "size_m2": 36.0,
+    "avg_price": "high",
+    "latest_price": 185990,
+    "latitude": 48.1172833,
+    "longitude": 17.1027249,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava V",
+    "category": "2 izbový byt",
+    "title": "Kompletne zrekonštruovaný 2-izbový byt, Polereckého ulica",
+    "link": "https://www.topreality.sk/kompletne-zrekonstruovany-2-izbovy-byt-polereckeho-ulica-r9145812.html",
+    "size_m2": 51.0,
+    "avg_price": "high",
+    "latest_price": 229500,
+    "latitude": 48.123612,
+    "longitude": 17.1282585,
     "price_changed": false
   },
   {
@@ -5564,10 +5860,20 @@
     "link": "https://www.topreality.sk/novostavba-1izb-bytu-so-zahradkou-a-terasou-rezidencia-majerska-r8779605.html",
     "size_m2": 42.0,
     "avg_price": "low",
-    "latest_price": 145000,
+    "latest_price": 149500,
     "latitude": 48.1525004,
     "longitude": 17.2029223,
-    "price_changed": false
+    "price_changed": true,
+    "price_history": [
+      {
+        "price": 145000,
+        "date": null
+      },
+      {
+        "price": 149500,
+        "date": "2025-10-15"
+      }
+    ]
   },
   {
     "county": "Bratislava II",
@@ -6412,6 +6718,66 @@
     "price_changed": false
   },
   {
+    "county": "Bratislava II",
+    "category": "1 izbový byt",
+    "title": "Veľký 1-izb. byt v tehlovom dome, Miletičova ul., Ružinov",
+    "link": "https://www.topreality.sk/velky-1-izb-byt-v-tehlovom-dome-mileticova-ul-ruzinov-r9145595.html",
+    "size_m2": 45.0,
+    "avg_price": "low",
+    "latest_price": 180000,
+    "latitude": 48.1540763,
+    "longitude": 17.1351087,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "1 izbový byt",
+    "title": "1 izbový byt na predaj v Ružinove",
+    "link": "https://www.topreality.sk/1-izbovy-byt-na-predaj-v-ruzinove-r9145474.html",
+    "size_m2": 52.0,
+    "avg_price": "low",
+    "latest_price": 209990,
+    "latitude": 48.1493142,
+    "longitude": 17.1645049,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "1 izbový byt",
+    "title": "Praktický 1 izbový byt v Ružinove - Jadrová ul.",
+    "link": "https://www.topreality.sk/prakticky-1-izbovy-byt-v-ruzinove-jadrova-ul-r9144951.html",
+    "size_m2": 43.0,
+    "avg_price": "low",
+    "latest_price": 181000,
+    "latitude": 48.1590327,
+    "longitude": 17.1663415,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "1 izbový byt",
+    "title": "Na predaj 1-izb. byt po kompletnej rekonštrukcii – Záhradnícka ul., Bratislava – Nivy",
+    "link": "https://www.topreality.sk/na-predaj-1-izb-byt-po-kompletnej-rekonstrukcii-zahradnicka-ul-bratislava-nivy-r9144685.html",
+    "size_m2": 27.0,
+    "avg_price": "high",
+    "latest_price": 165000,
+    "latitude": 48.1560858,
+    "longitude": 17.1355717,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava II",
+    "category": "1 izbový byt",
+    "title": "REZERVOVANÉ-Predaj 1-izb.byt/ garsónka 23m2 Vietnamská ul., Ružinov-BAII",
+    "link": "https://www.topreality.sk/rezervovane-predaj-1-izb-byt-garsonka-23m2-vietnamska-ul-ruzinov-baii-r9065244.html",
+    "size_m2": 23.0,
+    "avg_price": "high",
+    "latest_price": 139900,
+    "latitude": 48.1691297,
+    "longitude": 17.1692929,
+    "price_changed": false
+  },
+  {
     "county": "Bratislava III",
     "category": "1 izbový byt",
     "title": "DOHODA MOŽNÁ: 1-izb. priestor (A2) s predzáhradkou - Triblavinská Residence so strešnou panoramatickou terasou",
@@ -6477,7 +6843,7 @@
     "title": "Aj investične, 1-izbový byt, Rača",
     "link": "https://www.topreality.sk/aj-investicne-1-izbovy-byt-raca-r9140690.html",
     "size_m2": 35.0,
-    "avg_price": "low",
+    "avg_price": "high",
     "latest_price": 171000,
     "latitude": 48.1980593,
     "longitude": 17.1363473,
@@ -6489,7 +6855,7 @@
     "title": "Aj investične krásny byt v novostavbe 2017 Pekná cesta – Rača",
     "link": "https://www.topreality.sk/aj-investicne-krasny-byt-v-novostavbe-2017-pekna-cesta-raca-r9140636.html",
     "size_m2": 37.0,
-    "avg_price": "low",
+    "avg_price": "high",
     "latest_price": 179000,
     "latitude": 48.2117887,
     "longitude": 17.1534331,
@@ -6597,7 +6963,7 @@
     "title": "Na predaj 1-izbový byt s balkónom - C1",
     "link": "https://www.topreality.sk/na-predaj-1-izbovy-byt-s-balkonom-c1-r9141498.html",
     "size_m2": 34.0,
-    "avg_price": "low",
+    "avg_price": "high",
     "latest_price": 165000,
     "latitude": 48.2117887,
     "longitude": 17.1534331,
@@ -6643,7 +7009,7 @@
     "title": "Novostavba zariadený 1 izbový byt s balkónom, Pekná cesta, Bratislava III. Rača",
     "link": "https://www.topreality.sk/novostavba-zariadeny-1-izbovy-byt-s-balkonom-pekna-cesta-bratislava-iii-raca-r9139476.html",
     "size_m2": 37.0,
-    "avg_price": "low",
+    "avg_price": "high",
     "latest_price": 179000,
     "latitude": 48.1991497,
     "longitude": 17.1349509,
@@ -7142,6 +7508,42 @@
     "price_changed": false
   },
   {
+    "county": "Bratislava III",
+    "category": "1 izbový byt",
+    "title": "Predaj 1-izbový byt s možnosťou prerábky na 2-izbový",
+    "link": "https://www.topreality.sk/predaj-1-izbovy-byt-s-moznostou-prerabky-na-2-izbovy-r9145174.html",
+    "size_m2": 36.0,
+    "avg_price": "low",
+    "latest_price": 100000,
+    "latitude": 48.1990463,
+    "longitude": 17.1674205,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava III",
+    "category": "1 izbový byt",
+    "title": "Aj investične, 1-izbový byt, Bratislava Rača",
+    "link": "https://www.topreality.sk/aj-investicne-1-izbovy-byt-bratislava-raca-r9145081.html",
+    "size_m2": 35.0,
+    "avg_price": "low",
+    "latest_price": 167000,
+    "latitude": 48.2117887,
+    "longitude": 17.1534331,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava III",
+    "category": "1 izbový byt",
+    "title": "PREDAJ LUXUSNÉHO 1-izbového bytu blízko Žiliny s PREDZÁHRADKOU !",
+    "link": "https://www.topreality.sk/predaj-luxusneho-1-izboveho-bytu-blizko-ziliny-s-predzahradkou-r9133954.html",
+    "size_m2": 35.0,
+    "avg_price": "low",
+    "latest_price": 125000,
+    "latitude": {},
+    "longitude": {},
+    "price_changed": false
+  },
+  {
     "county": "Bratislava V",
     "category": "1 izbový byt",
     "title": "1 izb. byt, OSUSKÉHO ul., ideálny aj ako investícia",
@@ -7511,6 +7913,30 @@
     "latest_price": 149990,
     "latitude": 48.124012,
     "longitude": 17.1125947,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava V",
+    "category": "1 izbový byt",
+    "title": "Dokončený byt v štvrti Slnečnice, dostupný ihneď",
+    "link": "https://www.topreality.sk/dokonceny-byt-v-stvrti-slnecnice-dostupny-ihned-r9144715.html",
+    "size_m2": 42.0,
+    "avg_price": "high",
+    "latest_price": 200885,
+    "latitude": 48.0890404,
+    "longitude": 17.1247832,
+    "price_changed": false
+  },
+  {
+    "county": "Bratislava V",
+    "category": "1 izbový byt",
+    "title": "Predaj 1. izb. byt 34,17m2 v pôvodnom stave, Hálova ul., BA V., Petržalka.",
+    "link": "https://www.topreality.sk/predaj-1-izb-byt-34-17m2-v-povodnom-stave-halova-ul-ba-v-petrzalka-r9145479.html",
+    "size_m2": 34.0,
+    "avg_price": "low",
+    "latest_price": 147000,
+    "latitude": 48.1217934,
+    "longitude": 17.1053699,
     "price_changed": false
   }
 ]
