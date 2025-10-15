@@ -11,7 +11,7 @@ It combines:
 The architecture is modular, clean, and production-ready — designed for clear separation between routes, models, configuration, and infrastructure.
 
 
-
+```
 ├── app.py                           → Entry point that starts the FastAPI server
 ├── app/
 │   ├── main.py                      → Initializes the FastAPI app, static files, and routes
@@ -27,6 +27,7 @@ The architecture is modular, clean, and production-ready — designed for clear 
 │   └── config/
 │       └── logger_config.py         → Centralized logging configuration
 
+```
 
 ---
 
@@ -46,10 +47,10 @@ Entry point for the entire FastAPI application. Loads environment variables, set
 
 **Example:**
 
-
+```
 ENV=dev python app.py
 ENV=prod python app.py
-
+```
 
 
 
@@ -68,15 +69,14 @@ Acts as the central hub that connects routes, templates, and static assets.
 
 **Structure:**
 
-
+```
 app = FastAPI(
 title="Marketing Advisor – Post event Next Best Action (NBA) Recommendations Report"
 )
 app.mount("/static", StaticFiles(directory="app/static"), name="static")
 app.include_router(html_routes.router)
 app.include_router(api_routes.router)
-
-
+```
 
 
 This design keeps `main.py` lightweight and focused on application assembly.
@@ -105,6 +105,7 @@ Provides machine-facing endpoints for programmatic access.
 - 422 → Validation fails
 - 500 → Unexpected errors
 
+```
 Example response:
 
 {
@@ -112,6 +113,7 @@ Example response:
     {"file": "RecoNBA.json", "status": "ok"}
     ]
 }
+```
 
 ---
 
