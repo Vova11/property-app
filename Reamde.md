@@ -10,22 +10,22 @@ It combines:
 
 The architecture is modular, clean, and production-ready — designed for clear separation between routes, models, configuration, and infrastructure.
 
-├── app.py → Entry point that starts the FastAPI server
+
+
+├── app.py                           → Entry point that starts the FastAPI server
 ├── app/
-│ ├── main.py → Initializes the FastAPI app, static files, and routes
-│ ├── models.py → Pydantic models for validating data structures
-│ ├── routes/
-│ │ ├── api_routes.py → Machine-facing API routes (JSON)
-│ │ └── html_routes.py → Browser-facing routes (Jinja2 templates)
-│ ├── templates/ → HTML templates rendered by FastAPI
-│ ├── static/ → Static assets (CSS, JS, images)
-│ ├── utils/ → Helper functions (pagination, decorators, formatting)
-│ ├── cos/
-│ │ └── connector.py → COS connector class for IBM Cloud Object Storage
-│ └── config/
-│ └── logger_config.py → Centralized logging configuration
-
-
+│   ├── main.py                      → Initializes the FastAPI app, static files, and routes
+│   ├── models.py                    → Pydantic models for validating data structures
+│   ├── routes/
+│   │   ├── api_routes.py            → Machine-facing API routes (JSON)
+│   │   └── html_routes.py           → Browser-facing routes (Jinja2 templates)
+│   ├── templates/                   → HTML templates rendered by FastAPI
+│   ├── static/                      → Static assets (CSS, JS, images)
+│   ├── utils/                       → Helper functions (pagination, decorators, formatting)
+│   ├── cos/
+│   │   └── connector.py             → COS connector class for IBM Cloud Object Storage
+│   └── config/
+│       └── logger_config.py         → Centralized logging configuration
 
 
 ---
